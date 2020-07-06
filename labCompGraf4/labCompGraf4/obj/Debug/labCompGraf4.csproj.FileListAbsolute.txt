@@ -1,0 +1,10 @@
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\obj\Debug\labCompGraf4.csprojAssemblyReference.cache
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\obj\Debug\labCompGraf4.Form1.resources
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\obj\Debug\labCompGraf4.Properties.Resources.resources
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\obj\Debug\labCompGraf4.csproj.GenerateResource.cache
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\obj\Debug\labCompGraf4.csproj.CoreCompileInputs.cache
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\bin\Debug\labCompGraf4.exe.config
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\bin\Debug\labCompGraf4.exe
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\bin\Debug\labCompGraf4.pdb
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\obj\Debug\labCompGraf4.exe
+C:\Users\CALLIKA\source\repos\labCompGraf4\labCompGraf4\obj\Debug\labCompGraf4.pdb
